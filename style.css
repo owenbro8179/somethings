@@ -1,0 +1,34 @@
+
+td, th {
+border:1px solid black;
+padding: 12px;
+text-align: center;
+}
+table{
+border-collapse: collapse;
+tr:nth-child(even) {background-color: #e05656;}
+tr:hover {background-color: rgb(102, 214, 242);}
+
+}
+html, table {
+    text-align: center;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%; 
+}
+
+header{
+     background: linear-gradient(120deg, #eccdcd, #ff0404);
+  color: #fff;
+  padding: 60px 20px;
+  text-align: center;
+}
+footer{
+    background-color: gray
+    ;
+}
+section{
+  background-color: rgb(242, 61, 61);
+}
